@@ -28,7 +28,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-    <!--Java 8-->
+    <!--Java 17-->
     <build>
         <plugins>
             <plugin>
